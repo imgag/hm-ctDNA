@@ -1,0 +1,13 @@
+name:cfDNA-meth-frag-pipeline
+channels:
+    -bioconda
+    -conda-forge
+dependencies:
+    -python=3.10
+    -pandas
+    -numpy
+    -samtools
+    -bedtools
+    -pip
+    -MethylDackel
+    -ngs-bits 

@@ -1,0 +1,3 @@
+#Sample-ID	Sample_type	UMI
+S01_01	Healthy	yes
+S02_01	Tumor	yes
