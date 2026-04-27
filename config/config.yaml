@@ -1,9 +1,9 @@
 ##config
-project_folder : /mnt/storage2/users/frsekaa1/Methylation_pipeline/cfMeth_github/
-ngs_bits_folder : /mnt/storage1/share/opt/
-meta_data: /mnt/storage2/users/frsekaa1/Methylation_pipeline/cfMeth_github/metadata.txt
-bams : /mnt/storage2/users/frsekaa1/Methylation_pipeline/cfMeth_github/test_bams
-bed : /mnt/storage2/users/frsekaa1/Methylation_pipeline/cfMeth_github/Twist_panBRCA_hg38.bed
-ref_fa : /mnt/storage2/users/frsekaa1/Methylation_pipeline/cfMeth_github/genome/GRCh38.fa
-out_folder : /mnt/storage2/users/frsekaa1/Methylation_pipeline/cfMeth_github/output
-Methyldackel_path : /mnt/storage2/users/frsekaa1/miniconda/envs/methyldackel/bin/MethylDackel
+project_folder : /path/to/project_folder
+ngs_bits_folder : /path/to/ngs_bits_folder
+meta_data: /path/to/metadata.txt
+bams : /path/to/test_bams
+bed : /path/to/bed/Twist_panBRCA_hg38.bed
+ref_fa : /path/to/genome/GRCh38.fa
+out_folder : /path/to/output_folder
+Methyldackel_path : /path/to/MethylDackel
